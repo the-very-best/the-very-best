@@ -38,6 +38,7 @@ class TopicForm extends React.Component {
             <option value="math">Math</option>
             <option value="pe">Physical Education</option>
             <option value="technology">Technology</option>
+            <option value="chemistry">Technology</option>
             <option value="writing">Writing</option>
           </select>
         </label>
